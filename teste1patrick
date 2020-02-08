@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-"BBB",BBB1
+https://origin.canaismax.com/live/bbb01hd/video.m3u8
+#EXTINF:-1 group-"BBB",BBB2
+https://origin.canaismax.com/live/bbb02hd/video.m3u8
+#EXTINF:-1 group-"BBB",BBB3
+https://origin.canaismax.com/live/bbb03hd/video.m3u8
+#EXTINF:-1 group-"BBB",BBB4
+https://origin.canaismax.com/live/bbb04hd/video.m3u8
+#EXTINF:-1 group-"BBB",BBB5
+https://origin.canaismax.com/live/bbb05hd/video.m3u8
+#EXTINF:-1 group-"BBB",BBB6
+https://origin.canaismax.com/live/bbb06hd/video.m3u8
+#EXTINF:-1 group-"BBB",BBB7
+https://origin.canaismax.com/live/bbb07hd/video.m3u8
+#EXTINF:-1 group-"BBB",BBB8
+https://origin.canaismax.com/live/bbb08hd/video.m3u8
+#EXTINF:-1 group-"BBB",BBB9
+https://origin.canaismax.com/live/bbb09hd/video.m3u8
+#EXTINF:-1 group-"BBB",BBB10
+https://origin.canaismax.com/live/bbb10hd/video.m3u8
